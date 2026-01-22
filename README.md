@@ -15,7 +15,6 @@ Este projeto analisa uma base de dados de 100.000 pedidos da Amazon para identif
 Utilizei o **Power Query** para garantir a integridade da análise:
 * Conversão de tipos (Datas e Moedas).
 * Criação da coluna de **Lucro** e **Mês/Ano**.
-* Padronização de nomes de cidades e estados.
 
 ### 2. Análise de Negócio
 Respondi a perguntas-chave como:
