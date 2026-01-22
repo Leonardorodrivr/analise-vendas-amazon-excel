@@ -32,3 +32,7 @@ Desenvolvi um painel visual que permite filtrar as métricas por categoria de pr
 ## 📂 Como visualizar
 1. Baixe o arquivo `Projeto Analise de Vendas Amazon.xlsx` presente neste repositório.
 2. Certifique-se de habilitar as macros/conteúdo caso o Excel solicite.
+
+
+![dashboard](dashboard.png).
+![etapas_etl](etapas_elt.png).
