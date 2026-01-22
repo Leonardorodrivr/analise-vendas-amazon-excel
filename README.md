@@ -35,4 +35,4 @@ Desenvolvi um painel visual que permite filtrar as métricas por categoria de pr
 
 
 ![dashboard](dashboard.png).
-![etapas_etl](etapas_elt.png).
+![etaps_etl](etaps_etl.png).
